@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
   <action id="CopyAbsolutePath" />
   <action id="CopyPaths" />
